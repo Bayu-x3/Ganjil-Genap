@@ -8,3 +8,5 @@ if( mod == 0 ){
 } else {
     console.log(bilangan +" Adalah bilangan ganjil")
 }
+
+// anjay mabar
